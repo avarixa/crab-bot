@@ -33,7 +33,7 @@ and
 ```
 .begin Buddy2
 ```
-respectively.
+respectively, assuming default settings.
 
 !["csv screencap"](https://i.imgur.com/82BwLZV.png)
 
