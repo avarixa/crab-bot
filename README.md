@@ -24,7 +24,7 @@ crab.run("ABC123")
 Place all buddy profiles in image forms inside the `Buddy_Profiles` folder. 
 Make a `.csv` file containing the **Buddy Nickname** on the **first column** and the **Buddy Profile Filename** on the **second column**. Note that the nicknames on the first column will be used to invoke the bidding. 
 **FILENAMES ARE CASE-SENSITIVE** make sure the filename is **exact**.
-!["csv screencap"](https://imgur.com/a/263POVI)
+!["csv screencap"](https://i.imgur.com/82BwLZV.png)
 
 ### You're done!
 More bullets will follow, but they are all optional.
