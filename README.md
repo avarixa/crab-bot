@@ -23,8 +23,19 @@ crab.run("ABC123")
 #### Step Two - Preparing the files
 Place all buddy profiles in image forms inside the `Buddy_Profiles` folder. 
 Make a `.csv` file containing the **Buddy Nickname** on the **first column** and the **Buddy Profile Filename** on the **second column**. Note that the nicknames on the first column will be used to invoke the bidding. 
-**FILENAMES ARE CASE-SENSITIVE** make sure the filename is **exact**.
+**FILENAMES ARE CASE-SENSITIVE** including the file extension, so make sure the filename is **exact**.
+The following screencap assumes that the files `Buddy 1.PNG` and `Buddy2.png` both exist.
+The bidding for these two can be invoked with
+```
+.begin Buddy 1
+```
+and
+```
+.begin Buddy2
+```
+respectively. 
 !["csv screencap"](https://i.imgur.com/82BwLZV.png)
+The filenames do not need to be exactly the same as the buddy nickname - `Buddy 2 != Buddy2`
 
 ### You're done!
 More bullets will follow, but they are all optional.
