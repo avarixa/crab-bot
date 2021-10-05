@@ -33,8 +33,10 @@ and
 ```
 .begin Buddy2
 ```
-respectively. 
+respectively.
+
 !["csv screencap"](https://i.imgur.com/82BwLZV.png)
+
 The filenames do not need to be exactly the same as the buddy nickname - `Buddy 2 != Buddy2`
 
 ### You're done!
